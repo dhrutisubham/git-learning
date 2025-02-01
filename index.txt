@@ -4,3 +4,4 @@ third line
 git first line
 second line
 third line
+seventh line
